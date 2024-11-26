@@ -1,18 +1,22 @@
-html {
-    align-items: center;
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville, serif";
+    text-align: center;
 }
 
+.motivation-img {
+    border: 5px solid white;
+    width: 100%;
+}
 
-#fontnormal{
-    font-family: "Libre Baskerville", serif;
-    font-weight: 400;
-    font-style: normal;
+body{
+    background-color: black;
 }
-  
-#fontbold {
-    font-family: "Libre Baskerville", serif;
-    font-weight: 700;
-    font-style: normal;
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
 }
-  
-  
